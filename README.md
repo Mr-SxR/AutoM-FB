@@ -12,6 +12,7 @@ pkg install python -y
 pkg install android-tools
 pip install requests
 pip install pycryptodome
+pip install python-dateutil
 ```
 - **Tool**
 ```Bash
