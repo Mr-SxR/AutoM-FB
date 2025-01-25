@@ -32,7 +32,4 @@ python AutoM-FB.py
 
 # Overview
 
-<img src="./Mr.SxR.jpg" width="450" alt="">
-
-
-
+[![Watch the video](https://img.youtube.com/vi/GV7qGr0vWMA/maxresdefault.jpg)](https://www.youtube.com/watch?v=GV7qGr0vWMA)
