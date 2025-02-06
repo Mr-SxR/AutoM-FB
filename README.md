@@ -10,7 +10,6 @@ pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install python -y
 pkg install android-tools
-pip install requests
 pip install faker
 pip install pycryptodome
 pip install python-dateutil
